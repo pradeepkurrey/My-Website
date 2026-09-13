@@ -49,9 +49,10 @@ header.style.boxShadow="0 4px 15px rgba(0,0,0,.08)";
 //==================== TYPING EFFECT ====================//
 
 const text=[
-"Power BI Developer",
-"Data Analyst",
-"Dashboard Designer"
+"Advanced Excel & MIS Executive",
+"Payroll Automation",
+"MIS Reporting",
+"Power BI Dashboards Developer",
 ];
 
 let count=0;
